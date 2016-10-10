@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "New site!"
+date:   2016-10-10 22:47:00 +0100
+categories: general
+---
+I decided it's about time I got a personal site back up again. Woo!
+
+Crucial to this: realizing that while I _could_ have spent quite a long time messing around with site software, themes, hosting, etc... it would have been a) tedious, b) not what I actually _wanted_ to spend my time doing, and c) unnecessary.
+
+It is, of course, all about the content. The reason I've actually put a site up again is because I want to write - not futz with blog software. I can always futz with blog software later if I want to; and I probably *will*, when the mood takes me, but I'll wait until that happens. It's a nice little example of realizing that I was making assumptions that were making everything more difficult, and by focusing on what I actually wanted to achieve, I could just DOWIT.
+
+It's also interesting because I think it reveals mistaken ideas about the price of failure. The underlying theme of front-loading all that setup, the idea that motivates all of it, is that I needed to be careful to get it right. I needed to pick the right hosting setup, the right blog platform, the right theme, etc. Because if I didn't, I was afraid I'd find myself locked-in to a suboptimal setup somehow. But this is both overestimating how important it is that my setup is optimal - it's just a personal site, it's not a critical business application - and underestimating my ability to fix it. I might not know how to migrate from Jekyll to Wordpress today, but if someday I decide that's what I want to do, I'm sure I can figure it out.
+
+For a while it was just a pretense, of course: futzing with the setup in order to procrastinate doing any actual writing, because if I actually tried to write, I'd face bigger problems like "I don't know what to say." Well, for someone who doesn't know what to say, I'm at five paragraphs and counting... _that_ mistake, I think, is down to being worried about how the result will come out. Which I think makes it worse. Do I _want_ my writing to be deep, useful, interesting, etc? Sure, but if I focus on that, I'll keep killing things that might _become_ deep, useful, or interesting, before they have the chance to get that far. I mean, I didn't intend to write five paragraphs when I started on this, but look where we've ended up.
+
+And if the result is tedious, self-indulgent, pointless, etc... well, you have an entire internets in front of you. See you around maybe.
+
+So. Github Pages for hosting, Jekyll for site generation, Atom for editing MD files locally. Worry about the rest later, if I ever even need to. Easy peasy.
